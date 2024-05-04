@@ -5,6 +5,13 @@
 			"guid": "00000000000000000000000000000000",
 			"description": "Default Uncontrolled Changelist",
 			"files": [
+<<<<<<< Updated upstream
+=======
+				"C:/Users/codyb/OneDrive/Documents/GitHub/ChainLinkStudios/Content/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/0/Z7/SQ0G9LMVSADQBB7JFSCURB.uasset",
+				"C:/Users/krugc/Documents/GitHub/ChainLinkStudios/ChainLinkStudios/Content/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/4/PN/2QISIGK5DJNQ05US8O8FXW.uasset",
+				"C:/Users/krugc/Documents/GitHub/ChainLinkStudios/ChainLinkStudios/Content/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/A/ZE/I7U52FNX2NGP5SPS15EM6X.uasset",
+				"C:/Users/krugc/Documents/GitHub/ChainLinkStudios/ChainLinkStudios/Content/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/E/HS/37MV5VALEQ0JTSFVIGZC76.uasset",
+>>>>>>> Stashed changes
 				"C:/Users/austy/OneDrive/Documents/Unreal-Udmey/ChainLinkStudios/Content/StarterContent/Audio/Collapse01.uasset",
 				"C:/Users/austy/OneDrive/Documents/Unreal-Udmey/ChainLinkStudios/Content/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/E/8O/GK06JAEJ82TQ0GA2QB0DJG.uasset"
 			]
